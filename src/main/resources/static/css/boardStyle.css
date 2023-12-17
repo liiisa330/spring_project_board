@@ -1,0 +1,21 @@
+@charset "UTF-8";
+ * { margin: auto  }
+   table{ text-align: center; 
+      width: 900px;
+      border:1px solid gray;
+   }
+   td{padding:5px; 
+      text-align: left;}
+  th{ padding: 1em;
+   }   
+   th,td{ border:1px solid gray;
+   height: 3px;}
+    h3{ padding: 1em;
+        text-align:center	   } 
+    a:link{color: black; text-decoration: none}    
+    a:visited{color: black; text-decoration: none}    
+    a:hover{color: black; text-decoration: none}
+    
+    .borderWhite{
+      border:1px solid white;
+    }  
